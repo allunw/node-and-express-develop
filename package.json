@@ -1,0 +1,27 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "measowlark.com",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allunw/node-and-express-develop.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "allun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allunw/node-and-express-develop/issues"
+  },
+  "homepage": "https://github.com/allunw/node-and-express-develop#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "express3-handlebars": "^0.5.2"
+  }
+}
